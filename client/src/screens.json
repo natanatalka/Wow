@@ -1,5 +1,12 @@
 {
   "id": "__BASE__",
   "name": "Wow",
-  "screens": []
+  "screens": [
+    {
+      "id": "2222",
+      "name": "2222",
+      "folder": true,
+      "screens": []
+    }
+  ]
 }
