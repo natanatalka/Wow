@@ -6,7 +6,14 @@
       "id": "2222",
       "name": "2222",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "Ssss",
+          "name": "ssss",
+          "sourceScreenId": "Blank",
+          "sourceAppId": "default"
+        }
+      ]
     }
   ]
 }
